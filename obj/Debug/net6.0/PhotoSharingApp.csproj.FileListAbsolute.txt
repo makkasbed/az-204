@@ -20,3 +20,15 @@
 /home/aluta182004/PhotoSharingApp/bin/Debug/net6.0/System.IO.Hashing.dll
 /home/aluta182004/PhotoSharingApp/bin/Debug/net6.0/System.Memory.Data.dll
 /home/aluta182004/PhotoSharingApp/obj/Debug/net6.0/PhotoSharingApp.csproj.CopyComplete
+/home/aluta182004/PhotoSharingApp/bin/Debug/net6.0/appsettings.json
+/home/aluta182004/PhotoSharingApp/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/home/aluta182004/PhotoSharingApp/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/aluta182004/PhotoSharingApp/bin/Debug/net6.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/aluta182004/PhotoSharingApp/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Json.dll
+/home/aluta182004/PhotoSharingApp/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/aluta182004/PhotoSharingApp/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Physical.dll
+/home/aluta182004/PhotoSharingApp/bin/Debug/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/aluta182004/PhotoSharingApp/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/home/aluta182004/PhotoSharingApp/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/home/aluta182004/PhotoSharingApp/bin/Debug/net6.0/System.Text.Json.dll
+/home/aluta182004/PhotoSharingApp/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
